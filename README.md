@@ -1,4 +1,9 @@
 INTRO:
+
+"I have thought of you, roaming these woods alone, is become a living dread to
+me, so that for lack o' breath I sat down to wait, determined to take Western
+ways and things as I found them."
+
 This is a quick and dirty Markov chain generator. reader.py reads the text you
 give it, generates the Markov structure, and outputs it to a JSON string, so
 that reading only has to take place once. markov.py reads from the generated
