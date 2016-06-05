@@ -18,6 +18,9 @@ recommend my CGoL repo. It's way more interesting code than this hot mess.
 HOW TO USE:
 1. Drop all of the text you want to feed into the generator into a file named
    corpus.txt.
+
 2. Run reader.py.
+3. 
 3. 3. Run markov.py.
+4. 
 4. 4. Read sentences from markovOut.txt.
